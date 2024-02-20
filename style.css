@@ -1,0 +1,98 @@
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.square {
+    width: 200px;
+    height: 200px;
+    background-color: aqua;
+    transition:  0.5s;
+    position: absolute;
+}
+
+.green {
+    margin: 250px 40px  ;
+    padding: 5px 30px 5px 30px ;
+    background-color: rgb(82, 180, 82);
+} 
+*/
+/* *{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+.square2 {
+width: 200px;
+height: 200px;
+background-color: rgb(220, 105, 180);
+transition:  0.5s;
+
+}
+
+.blue {
+margin: 50px 40px  ;
+padding: 5px 30px 5px 30px ; 
+background-color: rgb(104, 111, 213);
+} */
+
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    }
+    
+    .square3 {
+    width: 150px;
+    height: 150px;
+    background-color: rgb(247, 14, 18);
+    transition:  0.5s;
+
+    } */
+    
+
+    *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    }
+
+.click {
+    padding: 5px 30px;
+    background-color: aqua;
+}
+
+    
+/* 
+
+        *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    }
+
+.textblue {
+    display: none;
+}
+.textgreen {
+    display: none;
+}
+.square {
+    padding: 10px 50px;
+    background-color: rgb(228, 126, 196);
+}
+      */
+
+      *{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        }
+    
+    .square {
+        padding: 5px 30px;
+        background-color: rgb(228, 203, 95);
+    }
+      
